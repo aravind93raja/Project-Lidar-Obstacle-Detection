@@ -4,7 +4,6 @@
 
 In this Project , 
 
-Given a stream of PCL
 
 1)  Given Steam of PCL is processed to segment the road from the vehicles and place bounding boxes around the detected obstacles.
 2)  RANSAC, KD-Tree, and Euclidean clustering algorithm are implemented from scratch as a part of your processing pipeline.
